@@ -1,0 +1,9 @@
+Changes
+lib/Net/Geography.pm
+Makefile.PL
+MANIFEST
+Net-Geography-Perl_200106.db
+README
+t/0_base.t
+t/1_lookup.t
+t/2_net_block_iterator.t
